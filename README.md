@@ -45,5 +45,3 @@ Feel free to fork this repository and submit a pull request for contributions or
 
 License
 This project is licensed under the MIT License – see the LICENSE file for details.
-
-Conta
